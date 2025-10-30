@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure React Flow edges are visible above other layers */
+.react-flow__edges {
+  z-index: 1000;
+}
+
+/* Controls container styling to avoid clipping */
+.react-flow__controls {
+  z-index: 2000;
+}
