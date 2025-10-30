@@ -5,7 +5,7 @@ function App() {
     <>
       <div className="bg-gray-800 min-h-screen flex flex-col items-center justify-center text-white">
         <p className="text-2xl mb-4">
-          React
+          In progress
         </p>
       </div>
 
