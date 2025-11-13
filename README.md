@@ -12,17 +12,3 @@ It displays object and array relationships clearly in a left-to-right layout, he
 
 ### Live Demo  
 🔗 [https://json-tree-visualizer-shivaraj.vercel.app/](https://json-tree-visualizer-shivaraj.vercel.app/)
-
-### How to Run Locally  
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/json-tree-visualizer.git
-
-# Navigate into the project folder
-cd json-tree-visualizer
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
